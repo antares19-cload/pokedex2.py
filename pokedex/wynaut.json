@@ -1,0 +1,23 @@
+{
+    "name": "wynaut",
+    "weight": 14.0,
+    "height": 60,
+    "types": [
+        "psychic"
+    ],
+    "abilities": [
+        "shadow-tag",
+        "telepathy"
+    ],
+    "moves": [
+        "counter",
+        "amnesia",
+        "splash",
+        "destiny-bond",
+        "charm",
+        "safeguard",
+        "encore",
+        "mirror-coat"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png"
+}
